@@ -1,8 +1,8 @@
 # ARRAY
 - Add Element (End)
-```
+``` java 
 arr[size] = value;  => TC: O(1) | SC: O(1)
-```
+``` java 
 - Remove Element (Index)
 ```
 arr[index] = arr[index + 1];  => TC: O(n) | SC: O(1)
